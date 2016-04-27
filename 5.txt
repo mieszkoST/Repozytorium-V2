@@ -1,4 +1,4 @@
-//"plik z nazwiskami" i "szukane nazwisko" podajemy jako parametry wywo³ania programu
+Cupra best//"plik z nazwiskami" i "szukane nazwisko" podajemy jako parametry wywo³ania programu
 
 #include <stdio.h>
 

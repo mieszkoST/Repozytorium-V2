@@ -1,4 +1,4 @@
-//u¿ytkownik podaje: liczbê1, operator: +, -, *, /, liczbê2, tzn. ./nazwa liczba1 operator liczba2
+zmiana Cuprowska//u¿ytkownik podaje: liczbê1, operator: +, -, *, /, liczbê2, tzn. ./nazwa liczba1 operator liczba2
 
 #include<stdio.h>
 
