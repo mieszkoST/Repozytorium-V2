@@ -27,7 +27,7 @@ dane=fopen(argv[1]; "r");
 if(dane==NULL) //brak pliku
 
 {
-
+/zmianyyyy
 printf("\n.....plik %s nie istnieje \n", bufor);
 
 exit(1);

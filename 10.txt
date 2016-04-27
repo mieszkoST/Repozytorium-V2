@@ -15,7 +15,7 @@ int NWD=0;
 char temp[10];
 
 FILE *nwd;
-
+/zmian
 printf("Podaj pierwsza i druga liczbe oddzielona <space>(max 4-cyfrowa)\n");
 
 fgets(temp,sizeof(temp),stdin);

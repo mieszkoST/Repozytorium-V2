@@ -13,7 +13,7 @@ printf("Podaj liczbe ");
 scanf("%d",&k);
 
 w=k;
-
+/zmiannuuuuff
 while(k>=1)
 
 {
