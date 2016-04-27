@@ -1,4 +1,4 @@
-#include <stdio.h>
+Ford guwno wort#include <stdio.h>
 
 /*Wczytanie macierzy z pliku*/
 

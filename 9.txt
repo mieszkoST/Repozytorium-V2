@@ -1,4 +1,4 @@
-//dzia³a pod Borlandem
+tylko Gulfy//dzia³a pod Borlandem
 
 #include <stdio.h>
 
