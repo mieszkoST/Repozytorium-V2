@@ -17,7 +17,7 @@ for(i=0; i<(*rozmiar); i++)
 for(j=0; j<(*rozmiar); j++)
 
 {
-
+//zmiannaennae
 fscanf(plik, "%lf",&macierz[i][j]);
 
 }

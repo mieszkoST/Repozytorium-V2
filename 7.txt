@@ -17,7 +17,7 @@ fscanf(plik,"%s",buf);
 i++;
 
 }
-
+//zmiannnn
 return i;
 
 }

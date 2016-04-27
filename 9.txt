@@ -15,7 +15,7 @@ char line[100];
 void main()
 
 {
-
+/zmianaaaaaaaaa
 while(1)
 
 {
